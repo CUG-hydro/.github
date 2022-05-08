@@ -17,7 +17,7 @@
 - `rPML`: https://github.com/gee-hydro/rPML
 - `BEPS`: https://github.com/JChen-UToronto/BEPS_hourly_site
 - `SCOPE`: https://github.com/Christiaanvandertol/SCOPE
-- `Land.jl`: https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG
+- `Land.jl`: Land融合了气候模式、陆面模型最先进的理论，学会这一个，跨入国际领先。https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG
 
 ## 可解决的问题：
 

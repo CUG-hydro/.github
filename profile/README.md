@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# 1. ET模型的学习曲线
+# 1. ET模型
 
 - `hydroTools`：水文气象学函数库，https://github.com/rpkgs/hydroTools
 - `rPML`: https://github.com/gee-hydro/rPML
@@ -28,3 +28,11 @@
   2. **蒸发理论**：湿表面与空气的温差
 
 ### 2. 地表温度与空气温度的转换
+
+### 3. 地表水文循环研究
+
+# 2. 水文模型
+- `XAJ`, `VIC5`: https://github.com/rpkgs/VIC5
+
+## 可解决问题: 
+### 1. 洪涝模拟与预测 

@@ -1,4 +1,4 @@
-## Hi there 👋
+# CUG水文气象学--课程补充材料 👋
 
 <!--
 
@@ -11,18 +11,20 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# ET模型的学习曲线
+# 1. ET模型的学习曲线
 
-- `Land.jl`: https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG
+- `hydroTools`：水文气象学函数库，https://github.com/rpkgs/hydroTools
+- `rPML`: https://github.com/gee-hydro/rPML
 - `BEPS`: https://github.com/JChen-UToronto/BEPS_hourly_site
 - `SCOPE`: https://github.com/Christiaanvandertol/SCOPE
+- `Land.jl`: https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG
 
-# 拟解决的问题
+## 可解决的问题：
 
-## 夏季撑伞与否对人体感知温度的影响
+### 1. 夏季撑伞与否对人体感知温度的影响
   
   可能用到的理论：
   1. **散射理论**
   2. **蒸发理论**：湿表面与空气的温差
 
-## 地表温度与空气温度的转换
+### 2. 地表温度与空气温度的转换

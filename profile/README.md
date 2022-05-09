@@ -1,4 +1,4 @@
-# CUG水文气象学--课程补充材料 👋
+# TODO:👋
 
 <!--
 
@@ -34,9 +34,12 @@
 # 2. 水文模型
 - `XAJ`, `VIC5`: https://github.com/rpkgs/VIC5
 - `MARRMoT`: 47种水文模型，https://github.com/gee-hydro/MARRMoT
-- `LSTM`: 时间序列预测，https://github.com/kongdd/LSTM
-- `Flux.jl`机器学习，https://github.com/FluxML/Flux.jl、https://github.com/kongdd/model-zoo、https://github.com/kongdd/Eat_Flux.jl_in_30_days
 
 ### 可解决问题: 
 #### 1. 洪涝模拟与预测
 #### 2. 时间序列预测
+
+# 3. 时间序列预测
+- `kfold`, 多种方法的k-fold交叉验证，https://github.com/rpkgs/kfold
+- `LSTM`: 时间序列预测，https://github.com/kongdd/LSTM
+- `Flux.jl`机器学习，https://github.com/FluxML/Flux.jl、https://github.com/kongdd/model-zoo、https://github.com/kongdd/Eat_Flux.jl_in_30_days

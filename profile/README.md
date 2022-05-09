@@ -49,6 +49,7 @@
 
 - `metpy`: <https://github.com/Unidata/MetPy>, <https://unidata.github.io/MetPy/latest/examples/index.html>
 - `metR`: <https://github.com/eliocamp/metR>
+- 气象动力学：南京大学MOOK,https://github.com/CUG-hydro/nju-DynamicMeteorology
 
 ## 理论
 - 位势高度场

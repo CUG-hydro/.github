@@ -43,3 +43,15 @@
 - `kfold`, 多种方法的k-fold交叉验证，https://github.com/rpkgs/kfold
 - `LSTM`: 时间序列预测，https://github.com/kongdd/LSTM
 - `Flux.jl`机器学习，https://github.com/FluxML/Flux.jl、https://github.com/kongdd/model-zoo、https://github.com/kongdd/Eat_Flux.jl_in_30_days
+
+# 4. 气象成因分析
+## 工具
+
+- `metpy`: <https://github.com/Unidata/MetPy>, <https://unidata.github.io/MetPy/latest/examples/index.html>
+- `metR`: <https://github.com/eliocamp/metR>
+
+## 理论
+- Q矢量
+- 涡度守恒
+- 锋生锋消
+

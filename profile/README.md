@@ -51,7 +51,8 @@
 - `metR`: <https://github.com/eliocamp/metR>
 
 ## 理论
+- 位势高度场
+- 水汽通量
+- 锋生锋消
 - Q矢量
 - 涡度守恒
-- 锋生锋消
-

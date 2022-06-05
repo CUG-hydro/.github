@@ -33,7 +33,9 @@
 
 # 2. 水文模型
 - `XAJ`, `VIC5`: https://github.com/rpkgs/VIC5
+- `VIC5tools`: https://github.com/rpkgs/VIC5tools
 - `MARRMoT`: 47种水文模型，https://github.com/gee-hydro/MARRMoT
+- `RunoffPredict`, https://github.com/CUG-hydro/RunoffPredict
 
 ### 可解决问题: 
 #### 1. 洪涝模拟与预测

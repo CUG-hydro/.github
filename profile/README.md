@@ -48,6 +48,9 @@
 - `LSTM`: 时间序列预测，https://github.com/kongdd/LSTM
 - `Flux.jl`机器学习，https://github.com/FluxML/Flux.jl、https://github.com/kongdd/model-zoo、https://github.com/kongdd/Eat_Flux.jl_in_30_days
 
+# 热浪研究
+- `SpatioTemporalCluster`: 3维时空热浪追踪，<https://github.com/CUG-hydro/SpatioTemporalCluster.jl>, <https://github.com/CUG-hydro/ChinaHW_cluster.jl>；同样可应用与干旱、暴雨
+
 # 4. 气象成因分析
 ## 工具
 

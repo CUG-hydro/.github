@@ -14,10 +14,10 @@
 # 1. ET模型
 
 - `hydroTools`：水文气象学函数库，https://github.com/rpkgs/hydroTools
-- `rPML`: https://github.com/gee-hydro/rPML
+- `rPML`: https://github.com/CUG-hydro/rPML
 - `BEPS`: https://github.com/JChen-UToronto/BEPS_hourly_site
 - `SCOPE`: https://github.com/Christiaanvandertol/SCOPE
-- `Land.jl`: Land融合了气候模式、陆面模型最先进的理论，学会这一个，跨入国际领先。https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG
+- `Land.jl`: Land融合了气候模式、陆面模型最先进的理论，学会这一个，跨入国际领先。<https://github.com/CliMA/Land>，<https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG>
 
 ### 可解决的问题：
 
@@ -34,7 +34,7 @@
 # 2. 水文模型
 - `XAJ`, `VIC5`: https://github.com/rpkgs/VIC5
 - `VIC5tools`: https://github.com/rpkgs/VIC5tools
-- `MARRMoT`: 47种水文模型，https://github.com/gee-hydro/MARRMoT
+- `MARRMoT`: 47种水文模型，<https://github.com/CUG-hydro/MARRMoT>、<https://github.com/CUG-hydro/MARRMoT.jl>
 - `RunoffPredict`, https://github.com/CUG-hydro/RunoffPredict
 
 ### 可解决问题: 
@@ -51,7 +51,7 @@
 
 - `metpy`: <https://github.com/Unidata/MetPy>, <https://unidata.github.io/MetPy/latest/examples/index.html>
 - `metR`: <https://github.com/eliocamp/metR>
-- 气象动力学：南京大学MOOK,https://github.com/CUG-hydro/nju-DynamicMeteorology
+- 气象动力学：南京大学MOOC,https://github.com/CUG-hydro/nju-DynamicMeteorology
 
 ## 理论
 - 位势高度场

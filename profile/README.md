@@ -65,4 +65,5 @@
 - Q矢量
 - 涡度守恒
 
-> 上述链接部分为private repository，加入我们你将拥有所有repository的访问权限
+> _上述链接部分为private repository，加入我们你将拥有所有repository的访问权限；_   
+> _代码版权归[kongdd](https://github.com/kongdd)所有，未经许可禁止传播。_

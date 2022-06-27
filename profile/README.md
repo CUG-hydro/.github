@@ -15,7 +15,7 @@
 
 - `hydroTools`：水文气象学函数库，https://github.com/rpkgs/hydroTools
 - `rPML`: https://github.com/CUG-hydro/rPML
-- `BEPS`: https://github.com/JChen-UToronto/BEPS_hourly_site
+- `BEPS`: <https://github.com/JChen-UToronto/BEPS_hourly_site>, <https://github.com/CUG-hydro/rBEPS>
 - `SCOPE`: https://github.com/Christiaanvandertol/SCOPE
 - `Land.jl`: Land融合了气候模式、陆面模型最先进的理论，学会这一个，跨入国际领先。<https://github.com/CliMA/Land>，<https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG>
 
@@ -29,12 +29,14 @@
 
 #### 2. 地表温度与空气温度的转换
 
+202206河南高温，空气温度40°，地表温度却可以到74°。通过Penman公式，你将能掌握背后的机理。
+
 #### 3. 地表水文循环研究
 
 # 2. 水文模型
+- `MARRMoT`: 47种水文模型，Julia改写300倍提速，<https://github.com/CUG-hydro/MARRMoT>、<https://github.com/CUG-hydro/MARRMoT.jl>
 - `XAJ`, `VIC5`: https://github.com/rpkgs/VIC5
 - `VIC5tools`: https://github.com/rpkgs/VIC5tools
-- `MARRMoT`: 47种水文模型，<https://github.com/CUG-hydro/MARRMoT>、<https://github.com/CUG-hydro/MARRMoT.jl>
 - `RunoffPredict`, https://github.com/CUG-hydro/RunoffPredict
 
 ### 可解决问题: 
@@ -59,3 +61,5 @@
 - 锋生锋消
 - Q矢量
 - 涡度守恒
+
+> 上述链接部分为private repository，加入我们你将拥有所有repository的访问权限

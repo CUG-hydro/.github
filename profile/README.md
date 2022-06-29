@@ -13,7 +13,7 @@
 
 # 1. ET模型
 
-- `hydroTools`：水文气象学函数库，https://github.com/rpkgs/hydroTools
+- `hydroTools`：水文气象学函数库，https://github.com/CUG-hydro/hydroTools
 - `rPML`: https://github.com/CUG-hydro/rPML
 - `BEPS`: <https://github.com/JChen-UToronto/BEPS_hourly_site>, <https://github.com/CUG-hydro/rBEPS>
 - `SCOPE`: https://github.com/Christiaanvandertol/SCOPE
@@ -36,7 +36,7 @@
 # 2. 水文模型
 - `MARRMoT`: 47种水文模型，Julia改写300倍提速，<https://github.com/CUG-hydro/MARRMoT>、<https://github.com/CUG-hydro/MARRMoT.jl>
 - `XAJ`, `VIC5`: https://github.com/rpkgs/VIC5
-- `VIC5tools`: https://github.com/rpkgs/VIC5tools
+- `VIC5tools`: https://github.com/CUG-hydro/VIC5tools
 - `RunoffPredict`, https://github.com/CUG-hydro/RunoffPredict
 
 ### 可解决问题: 

@@ -15,7 +15,7 @@
 
 - `hydroTools`：水文气象学函数库，https://github.com/CUG-hydro/hydroTools
 - `rPML`: https://github.com/CUG-hydro/rPML
-- `BEPS`: <https://github.com/JChen-UToronto/BEPS_hourly_site>, <https://github.com/CUG-hydro/rBEPS>
+- `BEPS`: <https://github.com/JChen-UToronto/BEPS_hourly_site>, <https://github.com/CUG-hydro/BEPS.jl>
 - `SCOPE`: https://github.com/Christiaanvandertol/SCOPE
 - `Land.jl`: Land融合了气候模式、陆面模型最先进的理论，学会这一个，跨入国际领先。<https://github.com/CliMA/Land>，<https://github.com/Yujie-WANG/Published-Codes-Yujie-WANG>
 

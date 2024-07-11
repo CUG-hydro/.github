@@ -68,11 +68,9 @@
 
 > _上述链接部分为private repository，加入我们你将拥有所有repository的访问权限；_   
 > _代码版权归[kongdd](https://github.com/kongdd)所有，未经许可禁止传播。_
-
+<!-- 
 ## Under going researches
-
-- [ChinaHW_path](https://github.com/CUG-hydro/ChinaHW_path)
-- [ChinaHW_cluster.R](https://github.com/CUG-hydro/ChinaHW_cluster.R), [ChinaHW_cluster.jl](https://github.com/CUG-hydro/ChinaHW_cluster.jl), [SpatioTemporalCluster.jl](https://github.com/CUG-hydro/SpatioTemporalCluster.jl)
+- [ChinaHW_path](https://github.com/CUG-hydro/ChinaHW_path), [SpatioTemporalCluster.jl](https://github.com/CUG-hydro/SpatioTemporalCluster.jl) 
 - [ET_evaluation](https://github.com/CUG-hydro/ET_evaluation)
 - <https://github.com/CUG-hydro/MARRMoT.jl>, <https://github.com/CUG-hydro/FloodEventDivision>
-
+-->

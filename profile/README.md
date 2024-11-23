@@ -1,6 +1,6 @@
 # TODO:👋
 
-<!--
+<!-- 
 
 **Here are some ideas to get you started:**
 
@@ -9,7 +9,6 @@
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
 
 # 1. 碳水耦合模型(ET & GPP)
 
@@ -68,7 +67,7 @@
 
 > _上述链接部分为private repository，加入我们你将拥有所有repository的访问权限；_   
 > _代码版权归[kongdd](https://github.com/kongdd)所有，未经许可禁止传播。_
-<!-- 
+
 ## Under going researches
 - [ChinaHW_path](https://github.com/CUG-hydro/ChinaHW_path), [SpatioTemporalCluster.jl](https://github.com/CUG-hydro/SpatioTemporalCluster.jl) 
 - [ET_evaluation](https://github.com/CUG-hydro/ET_evaluation)
